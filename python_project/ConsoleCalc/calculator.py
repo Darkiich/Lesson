@@ -44,9 +44,13 @@ def squareFunctions():
         firstvalue_sq = int(input("Введите коэффициент a: "))
         secondvalue_sq = int(input("Введите коэффициент b: "))
         thirdvalue_sq = int(input("Введите коэффициент c: "))
+        if firstvalue_sq == 0:
+            print(f'Коэффициент "a" не может быть равен нулю')
+        else:
+            continue
         
         print("Считаем значение дискриминанта, D = b^2 - 4*a*c")    
-        discriminant = (secondvalue_sq**2) - 4*secondvalue_sq*thirdvalue_sq
+        discriminant = secondvalue_sq**2 - 4*firstvalue_sq*thirdvalue_sq
         print(f'Дискриминант = {discriminant}')
         
         if discriminant > 0:
