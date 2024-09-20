@@ -45,7 +45,7 @@ def squareFunctions():
         secondvalue_sq = int(input("Введите коэффициент b: "))
         thirdvalue_sq = int(input("Введите коэффициент c: "))
         if firstvalue_sq == 0:
-            print(f'Коэффициент "a" не может быть равен нулю')
+            print("Коэффициент 'a' не может быть равен нулю")
         else:
             continue
         
