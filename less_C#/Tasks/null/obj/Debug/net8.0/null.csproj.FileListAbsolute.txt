@@ -1,0 +1,5 @@
+C:\pyt\Lesson\less_C#\Tasks\null\obj\Debug\net8.0\null.GeneratedMSBuildEditorConfig.editorconfig
+C:\pyt\Lesson\less_C#\Tasks\null\obj\Debug\net8.0\null.AssemblyInfoInputs.cache
+C:\pyt\Lesson\less_C#\Tasks\null\obj\Debug\net8.0\null.AssemblyInfo.cs
+C:\pyt\Lesson\less_C#\Tasks\null\obj\Debug\net8.0\null.csproj.CoreCompileInputs.cache
+C:\pyt\Lesson\less_C#\Tasks\null\obj\Debug\net8.0\null.sourcelink.json
