@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\pyt\\Lesson\\less_C#\\Tasks\\null\\null.csproj": {}
+    "C:\\Lesson\\Lesson\\less_C#\\Tasks\\operation_NUULL\\operation_NUULL.csproj": {}
   },
   "projects": {
-    "C:\\pyt\\Lesson\\less_C#\\Tasks\\null\\null.csproj": {
+    "C:\\Lesson\\Lesson\\less_C#\\Tasks\\operation_NUULL\\operation_NUULL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\pyt\\Lesson\\less_C#\\Tasks\\null\\null.csproj",
-        "projectName": "null",
-        "projectPath": "C:\\pyt\\Lesson\\less_C#\\Tasks\\null\\null.csproj",
+        "projectUniqueName": "C:\\Lesson\\Lesson\\less_C#\\Tasks\\operation_NUULL\\operation_NUULL.csproj",
+        "projectName": "operation_NUULL",
+        "projectPath": "C:\\Lesson\\Lesson\\less_C#\\Tasks\\operation_NUULL\\operation_NUULL.csproj",
         "packagesPath": "C:\\Users\\ADMIN$\\.nuget\\packages\\",
-        "outputPath": "C:\\pyt\\Lesson\\less_C#\\Tasks\\null\\obj\\",
+        "outputPath": "C:\\Lesson\\Lesson\\less_C#\\Tasks\\operation_NUULL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN$\\AppData\\Roaming\\NuGet\\NuGet.Config",

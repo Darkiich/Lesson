@@ -1,0 +1,15 @@
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\obj\Debug\net8.0\operation_NUULL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\obj\Debug\net8.0\operation_NUULL.AssemblyInfoInputs.cache
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\obj\Debug\net8.0\operation_NUULL.AssemblyInfo.cs
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\obj\Debug\net8.0\operation_NUULL.csproj.CoreCompileInputs.cache
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\obj\Debug\net8.0\operation_NUULL.sourcelink.json
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\bin\Debug\net8.0\operation_NUULL.exe
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\bin\Debug\net8.0\operation_NUULL.deps.json
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\bin\Debug\net8.0\operation_NUULL.runtimeconfig.json
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\bin\Debug\net8.0\operation_NUULL.dll
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\bin\Debug\net8.0\operation_NUULL.pdb
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\obj\Debug\net8.0\operation_NUULL.dll
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\obj\Debug\net8.0\refint\operation_NUULL.dll
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\obj\Debug\net8.0\operation_NUULL.pdb
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\obj\Debug\net8.0\operation_NUULL.genruntimeconfig.cache
+C:\Lesson\Lesson\less_C#\Tasks\operation_NUULL\obj\Debug\net8.0\ref\operation_NUULL.dll
