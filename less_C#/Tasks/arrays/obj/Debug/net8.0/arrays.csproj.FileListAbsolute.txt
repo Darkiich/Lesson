@@ -1,0 +1,15 @@
+C:\pyt\Lesson\less_C#\Tasks\arrays\bin\Debug\net8.0\arrays.exe
+C:\pyt\Lesson\less_C#\Tasks\arrays\bin\Debug\net8.0\arrays.deps.json
+C:\pyt\Lesson\less_C#\Tasks\arrays\bin\Debug\net8.0\arrays.runtimeconfig.json
+C:\pyt\Lesson\less_C#\Tasks\arrays\bin\Debug\net8.0\arrays.dll
+C:\pyt\Lesson\less_C#\Tasks\arrays\bin\Debug\net8.0\arrays.pdb
+C:\pyt\Lesson\less_C#\Tasks\arrays\obj\Debug\net8.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\pyt\Lesson\less_C#\Tasks\arrays\obj\Debug\net8.0\arrays.AssemblyInfoInputs.cache
+C:\pyt\Lesson\less_C#\Tasks\arrays\obj\Debug\net8.0\arrays.AssemblyInfo.cs
+C:\pyt\Lesson\less_C#\Tasks\arrays\obj\Debug\net8.0\arrays.csproj.CoreCompileInputs.cache
+C:\pyt\Lesson\less_C#\Tasks\arrays\obj\Debug\net8.0\arrays.sourcelink.json
+C:\pyt\Lesson\less_C#\Tasks\arrays\obj\Debug\net8.0\arrays.dll
+C:\pyt\Lesson\less_C#\Tasks\arrays\obj\Debug\net8.0\refint\arrays.dll
+C:\pyt\Lesson\less_C#\Tasks\arrays\obj\Debug\net8.0\arrays.pdb
+C:\pyt\Lesson\less_C#\Tasks\arrays\obj\Debug\net8.0\arrays.genruntimeconfig.cache
+C:\pyt\Lesson\less_C#\Tasks\arrays\obj\Debug\net8.0\ref\arrays.dll
