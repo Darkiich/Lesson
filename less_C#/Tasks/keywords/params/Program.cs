@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         int aga = Summ(10, 20, 5, 30);
-        Console.Write(aga);
+        Console.Write("Сумма чисел {a} = " + aga);
     }
 
     static int Summ(params int[] a);
@@ -17,6 +17,6 @@ class Program
             res += a[i];
         }
 
-        Console.Write("Сумма чисел {a} = " + res);
+        return res;
     }
 }
