@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\pyt\\Lesson\\less_C#\\Tasks\\functions\\functions.csproj": {}
+    "C:\\Lesson\\Lesson\\less_C#\\Tasks\\functions\\functions.csproj": {}
   },
   "projects": {
-    "C:\\pyt\\Lesson\\less_C#\\Tasks\\functions\\functions.csproj": {
+    "C:\\Lesson\\Lesson\\less_C#\\Tasks\\functions\\functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\pyt\\Lesson\\less_C#\\Tasks\\functions\\functions.csproj",
+        "projectUniqueName": "C:\\Lesson\\Lesson\\less_C#\\Tasks\\functions\\functions.csproj",
         "projectName": "functions",
-        "projectPath": "C:\\pyt\\Lesson\\less_C#\\Tasks\\functions\\functions.csproj",
+        "projectPath": "C:\\Lesson\\Lesson\\less_C#\\Tasks\\functions\\functions.csproj",
         "packagesPath": "C:\\Users\\ADMIN$\\.nuget\\packages\\",
-        "outputPath": "C:\\pyt\\Lesson\\less_C#\\Tasks\\functions\\obj\\",
+        "outputPath": "C:\\Lesson\\Lesson\\less_C#\\Tasks\\functions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN$\\AppData\\Roaming\\NuGet\\NuGet.Config",

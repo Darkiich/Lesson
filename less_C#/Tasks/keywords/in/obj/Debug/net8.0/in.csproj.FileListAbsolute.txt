@@ -1,0 +1,5 @@
+C:\Lesson\Lesson\less_C#\Tasks\keywords\in\obj\Debug\net8.0\in.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson\Lesson\less_C#\Tasks\keywords\in\obj\Debug\net8.0\in.AssemblyInfoInputs.cache
+C:\Lesson\Lesson\less_C#\Tasks\keywords\in\obj\Debug\net8.0\in.AssemblyInfo.cs
+C:\Lesson\Lesson\less_C#\Tasks\keywords\in\obj\Debug\net8.0\in.csproj.CoreCompileInputs.cache
+C:\Lesson\Lesson\less_C#\Tasks\keywords\in\obj\Debug\net8.0\in.sourcelink.json

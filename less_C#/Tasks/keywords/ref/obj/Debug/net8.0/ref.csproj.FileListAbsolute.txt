@@ -1,0 +1,15 @@
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\bin\Debug\net8.0\ref.exe
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\bin\Debug\net8.0\ref.deps.json
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\bin\Debug\net8.0\ref.runtimeconfig.json
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\bin\Debug\net8.0\ref.dll
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\bin\Debug\net8.0\ref.pdb
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\obj\Debug\net8.0\ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\obj\Debug\net8.0\ref.AssemblyInfoInputs.cache
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\obj\Debug\net8.0\ref.AssemblyInfo.cs
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\obj\Debug\net8.0\ref.csproj.CoreCompileInputs.cache
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\obj\Debug\net8.0\ref.sourcelink.json
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\obj\Debug\net8.0\ref.dll
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\obj\Debug\net8.0\refint\ref.dll
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\obj\Debug\net8.0\ref.pdb
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\obj\Debug\net8.0\ref.genruntimeconfig.cache
+C:\Lesson\Lesson\less_C#\Tasks\keywords\ref\obj\Debug\net8.0\ref\ref.dll
