@@ -1,0 +1,15 @@
+C:\Lesson\Lesson\less_C#\Tasks\nullable\obj\Debug\net8.0\nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson\Lesson\less_C#\Tasks\nullable\obj\Debug\net8.0\nullable.AssemblyInfoInputs.cache
+C:\Lesson\Lesson\less_C#\Tasks\nullable\obj\Debug\net8.0\nullable.AssemblyInfo.cs
+C:\Lesson\Lesson\less_C#\Tasks\nullable\obj\Debug\net8.0\nullable.csproj.CoreCompileInputs.cache
+C:\Lesson\Lesson\less_C#\Tasks\nullable\obj\Debug\net8.0\nullable.sourcelink.json
+C:\Lesson\Lesson\less_C#\Tasks\nullable\bin\Debug\net8.0\nullable.exe
+C:\Lesson\Lesson\less_C#\Tasks\nullable\bin\Debug\net8.0\nullable.deps.json
+C:\Lesson\Lesson\less_C#\Tasks\nullable\bin\Debug\net8.0\nullable.runtimeconfig.json
+C:\Lesson\Lesson\less_C#\Tasks\nullable\bin\Debug\net8.0\nullable.dll
+C:\Lesson\Lesson\less_C#\Tasks\nullable\bin\Debug\net8.0\nullable.pdb
+C:\Lesson\Lesson\less_C#\Tasks\nullable\obj\Debug\net8.0\nullable.dll
+C:\Lesson\Lesson\less_C#\Tasks\nullable\obj\Debug\net8.0\refint\nullable.dll
+C:\Lesson\Lesson\less_C#\Tasks\nullable\obj\Debug\net8.0\nullable.pdb
+C:\Lesson\Lesson\less_C#\Tasks\nullable\obj\Debug\net8.0\nullable.genruntimeconfig.cache
+C:\Lesson\Lesson\less_C#\Tasks\nullable\obj\Debug\net8.0\ref\nullable.dll
