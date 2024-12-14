@@ -1,0 +1,15 @@
+C:\Lesson\Lesson\less_C#\OOP\Class\obj\Debug\net8.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson\Lesson\less_C#\OOP\Class\obj\Debug\net8.0\Class.AssemblyInfoInputs.cache
+C:\Lesson\Lesson\less_C#\OOP\Class\obj\Debug\net8.0\Class.AssemblyInfo.cs
+C:\Lesson\Lesson\less_C#\OOP\Class\obj\Debug\net8.0\Class.csproj.CoreCompileInputs.cache
+C:\Lesson\Lesson\less_C#\OOP\Class\obj\Debug\net8.0\Class.sourcelink.json
+C:\Lesson\Lesson\less_C#\OOP\Class\bin\Debug\net8.0\Class.exe
+C:\Lesson\Lesson\less_C#\OOP\Class\bin\Debug\net8.0\Class.deps.json
+C:\Lesson\Lesson\less_C#\OOP\Class\bin\Debug\net8.0\Class.runtimeconfig.json
+C:\Lesson\Lesson\less_C#\OOP\Class\bin\Debug\net8.0\Class.dll
+C:\Lesson\Lesson\less_C#\OOP\Class\bin\Debug\net8.0\Class.pdb
+C:\Lesson\Lesson\less_C#\OOP\Class\obj\Debug\net8.0\Class.dll
+C:\Lesson\Lesson\less_C#\OOP\Class\obj\Debug\net8.0\refint\Class.dll
+C:\Lesson\Lesson\less_C#\OOP\Class\obj\Debug\net8.0\Class.pdb
+C:\Lesson\Lesson\less_C#\OOP\Class\obj\Debug\net8.0\Class.genruntimeconfig.cache
+C:\Lesson\Lesson\less_C#\OOP\Class\obj\Debug\net8.0\ref\Class.dll
