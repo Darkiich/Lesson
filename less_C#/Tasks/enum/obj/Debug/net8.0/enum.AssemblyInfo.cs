@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("nullable")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("enum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cb5d1aa7d6118fe4752b3dc61fb5baa203c05ef")]
-[assembly: System.Reflection.AssemblyProductAttribute("nullable")]
-[assembly: System.Reflection.AssemblyTitleAttribute("nullable")]
+[assembly: System.Reflection.AssemblyProductAttribute("enum")]
+[assembly: System.Reflection.AssemblyTitleAttribute("enum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

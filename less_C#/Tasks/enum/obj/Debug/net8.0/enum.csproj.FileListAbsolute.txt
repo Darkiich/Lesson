@@ -1,0 +1,15 @@
+C:\Lesson\Lesson\less_C#\Tasks\enum\obj\Debug\net8.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson\Lesson\less_C#\Tasks\enum\obj\Debug\net8.0\enum.AssemblyInfoInputs.cache
+C:\Lesson\Lesson\less_C#\Tasks\enum\obj\Debug\net8.0\enum.AssemblyInfo.cs
+C:\Lesson\Lesson\less_C#\Tasks\enum\obj\Debug\net8.0\enum.csproj.CoreCompileInputs.cache
+C:\Lesson\Lesson\less_C#\Tasks\enum\obj\Debug\net8.0\enum.sourcelink.json
+C:\Lesson\Lesson\less_C#\Tasks\enum\bin\Debug\net8.0\enum.exe
+C:\Lesson\Lesson\less_C#\Tasks\enum\bin\Debug\net8.0\enum.deps.json
+C:\Lesson\Lesson\less_C#\Tasks\enum\bin\Debug\net8.0\enum.runtimeconfig.json
+C:\Lesson\Lesson\less_C#\Tasks\enum\bin\Debug\net8.0\enum.dll
+C:\Lesson\Lesson\less_C#\Tasks\enum\bin\Debug\net8.0\enum.pdb
+C:\Lesson\Lesson\less_C#\Tasks\enum\obj\Debug\net8.0\enum.dll
+C:\Lesson\Lesson\less_C#\Tasks\enum\obj\Debug\net8.0\refint\enum.dll
+C:\Lesson\Lesson\less_C#\Tasks\enum\obj\Debug\net8.0\enum.pdb
+C:\Lesson\Lesson\less_C#\Tasks\enum\obj\Debug\net8.0\enum.genruntimeconfig.cache
+C:\Lesson\Lesson\less_C#\Tasks\enum\obj\Debug\net8.0\ref\enum.dll
