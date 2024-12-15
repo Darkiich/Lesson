@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Class")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AccessModifiers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b52230b9040cedd5763b62580bc911cb5ea1a2a1")]
-[assembly: System.Reflection.AssemblyProductAttribute("Class")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Class")]
+[assembly: System.Reflection.AssemblyProductAttribute("AccessModifiers")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AccessModifiers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
