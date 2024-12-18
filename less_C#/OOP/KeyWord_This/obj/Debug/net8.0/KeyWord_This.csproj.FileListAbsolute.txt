@@ -1,0 +1,15 @@
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\bin\Debug\net8.0\KeyWord_This.exe
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\bin\Debug\net8.0\KeyWord_This.deps.json
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\bin\Debug\net8.0\KeyWord_This.runtimeconfig.json
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\bin\Debug\net8.0\KeyWord_This.dll
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\bin\Debug\net8.0\KeyWord_This.pdb
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\obj\Debug\net8.0\KeyWord_This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\obj\Debug\net8.0\KeyWord_This.AssemblyInfoInputs.cache
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\obj\Debug\net8.0\KeyWord_This.AssemblyInfo.cs
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\obj\Debug\net8.0\KeyWord_This.csproj.CoreCompileInputs.cache
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\obj\Debug\net8.0\KeyWord_This.sourcelink.json
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\obj\Debug\net8.0\KeyWord_This.dll
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\obj\Debug\net8.0\refint\KeyWord_This.dll
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\obj\Debug\net8.0\KeyWord_This.pdb
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\obj\Debug\net8.0\KeyWord_This.genruntimeconfig.cache
+C:\Lesson\Lesson\less_C#\OOP\KeyWord_This\obj\Debug\net8.0\ref\KeyWord_This.dll
