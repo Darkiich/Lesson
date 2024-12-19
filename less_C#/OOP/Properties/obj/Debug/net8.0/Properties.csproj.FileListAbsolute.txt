@@ -1,0 +1,15 @@
+C:\Lesson\Lesson\less_C#\OOP\Properties\bin\Debug\net8.0\Properties.exe
+C:\Lesson\Lesson\less_C#\OOP\Properties\bin\Debug\net8.0\Properties.deps.json
+C:\Lesson\Lesson\less_C#\OOP\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+C:\Lesson\Lesson\less_C#\OOP\Properties\bin\Debug\net8.0\Properties.dll
+C:\Lesson\Lesson\less_C#\OOP\Properties\bin\Debug\net8.0\Properties.pdb
+C:\Lesson\Lesson\less_C#\OOP\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson\Lesson\less_C#\OOP\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+C:\Lesson\Lesson\less_C#\OOP\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+C:\Lesson\Lesson\less_C#\OOP\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+C:\Lesson\Lesson\less_C#\OOP\Properties\obj\Debug\net8.0\Properties.sourcelink.json
+C:\Lesson\Lesson\less_C#\OOP\Properties\obj\Debug\net8.0\Properties.dll
+C:\Lesson\Lesson\less_C#\OOP\Properties\obj\Debug\net8.0\refint\Properties.dll
+C:\Lesson\Lesson\less_C#\OOP\Properties\obj\Debug\net8.0\Properties.pdb
+C:\Lesson\Lesson\less_C#\OOP\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+C:\Lesson\Lesson\less_C#\OOP\Properties\obj\Debug\net8.0\ref\Properties.dll

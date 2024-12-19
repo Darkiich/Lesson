@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\pyt\\Lesson\\less_C#\\Tasks\\arrays\\arrays.csproj": {}
+    "C:\\Lesson\\Lesson\\less_C#\\Tasks\\arrays\\arrays.csproj": {}
   },
   "projects": {
-    "C:\\pyt\\Lesson\\less_C#\\Tasks\\arrays\\arrays.csproj": {
+    "C:\\Lesson\\Lesson\\less_C#\\Tasks\\arrays\\arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\pyt\\Lesson\\less_C#\\Tasks\\arrays\\arrays.csproj",
+        "projectUniqueName": "C:\\Lesson\\Lesson\\less_C#\\Tasks\\arrays\\arrays.csproj",
         "projectName": "arrays",
-        "projectPath": "C:\\pyt\\Lesson\\less_C#\\Tasks\\arrays\\arrays.csproj",
+        "projectPath": "C:\\Lesson\\Lesson\\less_C#\\Tasks\\arrays\\arrays.csproj",
         "packagesPath": "C:\\Users\\ADMIN$\\.nuget\\packages\\",
-        "outputPath": "C:\\pyt\\Lesson\\less_C#\\Tasks\\arrays\\obj\\",
+        "outputPath": "C:\\Lesson\\Lesson\\less_C#\\Tasks\\arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN$\\AppData\\Roaming\\NuGet\\NuGet.Config",
