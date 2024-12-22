@@ -1,0 +1,15 @@
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.deps.json
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.runtimeconfig.json
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.dll
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.pdb
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.AssemblyInfoInputs.cache
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.AssemblyInfo.cs
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.csproj.CoreCompileInputs.cache
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.sourcelink.json
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.dll
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/obj/Debug/net8.0/refint/ExtensionMethod.dll
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.pdb
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.genruntimeconfig.cache
+/workspaces/Lesson/less_C#/OOP/ExtensionMethod/obj/Debug/net8.0/ref/ExtensionMethod.dll
