@@ -2,8 +2,31 @@
 using AccessModifiers;
 namespace AccessModifiers;
 
-class PublicPrivate
+partial class PartialMofifier
+{
+    /*
+        partial - ключевое слово, которое позволяет разбить класс на несколько файлов
+        Имя класса в другом файле должно быть такое же как в этом файле
+    */
 
+    public string First = { get; set; }
+    public string Second = { get; set; }
+
+    public PartialMofifier(string first, string second)
+    {
+        First = first;
+        Second = second;
+    }
+
+    // Допустим, что этот метод вызывается из другого файла, а не тут
+    public void Print()
+    {
+        Console.WriteLine($"Первая часть: {First}");
+        Console.WriteLine($"Вторая часть: {Second}");
+    }
+}
+
+class PublicPrivate
 {
     /*
         public - позволяет использовать везде
@@ -69,5 +92,10 @@ class Program
         StaticModifier staticModifier = new StaticModifier();
         staticModifier.PrintStaticX(); // Обрщение к не статическому методу, с созданием экземпляра
         StaticModifier.PrintStaticY(); // Обращение к статическому методу через класс, без создания экземпляра
+
+        Console.WriteLine();
+
+        PartialMofifier partialMofifier = new PartialMofifier("Hello", "World");
+        partialMofifier.Print();
     }
 }
