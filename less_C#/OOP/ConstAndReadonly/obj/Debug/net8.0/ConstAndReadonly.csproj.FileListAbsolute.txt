@@ -1,0 +1,15 @@
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/obj/Debug/net8.0/ConstAndReadonly.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/obj/Debug/net8.0/ConstAndReadonly.AssemblyInfoInputs.cache
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/obj/Debug/net8.0/ConstAndReadonly.AssemblyInfo.cs
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/obj/Debug/net8.0/ConstAndReadonly.csproj.CoreCompileInputs.cache
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/obj/Debug/net8.0/ConstAndReadonly.sourcelink.json
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/bin/Debug/net8.0/ConstAndReadonly
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/bin/Debug/net8.0/ConstAndReadonly.deps.json
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/bin/Debug/net8.0/ConstAndReadonly.runtimeconfig.json
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/bin/Debug/net8.0/ConstAndReadonly.dll
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/bin/Debug/net8.0/ConstAndReadonly.pdb
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/obj/Debug/net8.0/ConstAndReadonly.dll
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/obj/Debug/net8.0/refint/ConstAndReadonly.dll
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/obj/Debug/net8.0/ConstAndReadonly.pdb
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/obj/Debug/net8.0/ConstAndReadonly.genruntimeconfig.cache
+/workspaces/Lesson/less_C#/OOP/ConstAndReadonly/obj/Debug/net8.0/ref/ConstAndReadonly.dll
