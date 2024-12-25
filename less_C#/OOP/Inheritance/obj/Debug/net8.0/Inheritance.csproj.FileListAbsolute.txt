@@ -1,0 +1,15 @@
+/workspaces/Lesson/less_C#/OOP/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lesson/less_C#/OOP/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/workspaces/Lesson/less_C#/OOP/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/workspaces/Lesson/less_C#/OOP/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/workspaces/Lesson/less_C#/OOP/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/workspaces/Lesson/less_C#/OOP/Inheritance/bin/Debug/net8.0/Inheritance
+/workspaces/Lesson/less_C#/OOP/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/workspaces/Lesson/less_C#/OOP/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/workspaces/Lesson/less_C#/OOP/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/workspaces/Lesson/less_C#/OOP/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/workspaces/Lesson/less_C#/OOP/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/workspaces/Lesson/less_C#/OOP/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/workspaces/Lesson/less_C#/OOP/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/workspaces/Lesson/less_C#/OOP/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/workspaces/Lesson/less_C#/OOP/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll
