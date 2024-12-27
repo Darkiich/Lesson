@@ -1,0 +1,15 @@
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/obj/Debug/net8.0/KeyWord_Base.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/obj/Debug/net8.0/KeyWord_Base.AssemblyInfoInputs.cache
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/obj/Debug/net8.0/KeyWord_Base.AssemblyInfo.cs
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/obj/Debug/net8.0/KeyWord_Base.csproj.CoreCompileInputs.cache
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/obj/Debug/net8.0/KeyWord_Base.sourcelink.json
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/bin/Debug/net8.0/KeyWord_Base
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/bin/Debug/net8.0/KeyWord_Base.deps.json
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/bin/Debug/net8.0/KeyWord_Base.runtimeconfig.json
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/bin/Debug/net8.0/KeyWord_Base.dll
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/bin/Debug/net8.0/KeyWord_Base.pdb
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/obj/Debug/net8.0/KeyWord_Base.dll
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/obj/Debug/net8.0/refint/KeyWord_Base.dll
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/obj/Debug/net8.0/KeyWord_Base.pdb
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/obj/Debug/net8.0/KeyWord_Base.genruntimeconfig.cache
+/workspaces/Lesson/less_C#/OOP/KeyWord_Base/obj/Debug/net8.0/ref/KeyWord_Base.dll
