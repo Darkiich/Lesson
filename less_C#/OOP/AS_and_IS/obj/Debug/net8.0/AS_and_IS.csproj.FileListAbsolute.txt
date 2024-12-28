@@ -1,0 +1,15 @@
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/obj/Debug/net8.0/AS_and_IS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/obj/Debug/net8.0/AS_and_IS.AssemblyInfoInputs.cache
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/obj/Debug/net8.0/AS_and_IS.AssemblyInfo.cs
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/obj/Debug/net8.0/AS_and_IS.csproj.CoreCompileInputs.cache
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/obj/Debug/net8.0/AS_and_IS.sourcelink.json
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/bin/Debug/net8.0/AS_and_IS
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/bin/Debug/net8.0/AS_and_IS.deps.json
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/bin/Debug/net8.0/AS_and_IS.runtimeconfig.json
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/bin/Debug/net8.0/AS_and_IS.dll
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/bin/Debug/net8.0/AS_and_IS.pdb
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/obj/Debug/net8.0/AS_and_IS.dll
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/obj/Debug/net8.0/refint/AS_and_IS.dll
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/obj/Debug/net8.0/AS_and_IS.pdb
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/obj/Debug/net8.0/AS_and_IS.genruntimeconfig.cache
+/workspaces/Lesson/less_C#/OOP/AS_and_IS/obj/Debug/net8.0/ref/AS_and_IS.dll
