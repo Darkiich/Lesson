@@ -1,0 +1,15 @@
+/workspaces/Lesson/less_C#/OOP/Polymorphism/bin/Debug/net8.0/Polymorphism
+/workspaces/Lesson/less_C#/OOP/Polymorphism/bin/Debug/net8.0/Polymorphism.deps.json
+/workspaces/Lesson/less_C#/OOP/Polymorphism/bin/Debug/net8.0/Polymorphism.runtimeconfig.json
+/workspaces/Lesson/less_C#/OOP/Polymorphism/bin/Debug/net8.0/Polymorphism.dll
+/workspaces/Lesson/less_C#/OOP/Polymorphism/bin/Debug/net8.0/Polymorphism.pdb
+/workspaces/Lesson/less_C#/OOP/Polymorphism/obj/Debug/net8.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lesson/less_C#/OOP/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache
+/workspaces/Lesson/less_C#/OOP/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfo.cs
+/workspaces/Lesson/less_C#/OOP/Polymorphism/obj/Debug/net8.0/Polymorphism.csproj.CoreCompileInputs.cache
+/workspaces/Lesson/less_C#/OOP/Polymorphism/obj/Debug/net8.0/Polymorphism.sourcelink.json
+/workspaces/Lesson/less_C#/OOP/Polymorphism/obj/Debug/net8.0/Polymorphism.dll
+/workspaces/Lesson/less_C#/OOP/Polymorphism/obj/Debug/net8.0/refint/Polymorphism.dll
+/workspaces/Lesson/less_C#/OOP/Polymorphism/obj/Debug/net8.0/Polymorphism.pdb
+/workspaces/Lesson/less_C#/OOP/Polymorphism/obj/Debug/net8.0/Polymorphism.genruntimeconfig.cache
+/workspaces/Lesson/less_C#/OOP/Polymorphism/obj/Debug/net8.0/ref/Polymorphism.dll
