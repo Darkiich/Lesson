@@ -2,6 +2,25 @@
 using AccessModifiers;
 namespace AccessModifiers;
 
+class ProtectedClass1
+{
+    /*
+        protected - ключевое слово, которое ведет себя как private, а так же позволяет объявить член как защищенный.
+        Т.е он доступен в классе, а так же в производных классах, но нельзя вызвать на уровне объекта класса
+    */
+    protected int x = 3;
+    protected int y = 5;
+}
+
+class ProtectedClass2 : ProtectedClass1
+{
+    public void Print()
+    {
+        Console.WriteLine($"Защищенная переменная x: {x}");
+        Console.WriteLine($"Защищенная переменная y: {y}");
+    }
+}
+
 partial class PartialMofifier
 {
     /*
@@ -9,8 +28,8 @@ partial class PartialMofifier
         Имя класса в другом файле должно быть такое же как в этом файле
     */
 
-    public string First = { get; set; }
-    public string Second = { get; set; }
+    public string First { get; set; }
+    public string Second { get; set; }
 
     public PartialMofifier(string first, string second)
     {
@@ -97,5 +116,11 @@ class Program
 
         PartialMofifier partialMofifier = new PartialMofifier("Hello", "World");
         partialMofifier.Print();
+
+        Console.WriteLine();
+
+        ProtectedClass2 protectedClass2 = new ProtectedClass2();
+        protectedClass2.Print();
+        //protectedClass2.x; // Нельзя обратиться к защищенному члену через экземпляр, т.к. он закрыт
     }
 }
