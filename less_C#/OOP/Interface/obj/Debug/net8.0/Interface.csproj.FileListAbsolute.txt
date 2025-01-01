@@ -1,0 +1,15 @@
+/workspaces/Lesson/less_C#/OOP/Interface/bin/Debug/net8.0/Interface
+/workspaces/Lesson/less_C#/OOP/Interface/bin/Debug/net8.0/Interface.deps.json
+/workspaces/Lesson/less_C#/OOP/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/workspaces/Lesson/less_C#/OOP/Interface/bin/Debug/net8.0/Interface.dll
+/workspaces/Lesson/less_C#/OOP/Interface/bin/Debug/net8.0/Interface.pdb
+/workspaces/Lesson/less_C#/OOP/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lesson/less_C#/OOP/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/workspaces/Lesson/less_C#/OOP/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/workspaces/Lesson/less_C#/OOP/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/workspaces/Lesson/less_C#/OOP/Interface/obj/Debug/net8.0/Interface.sourcelink.json
+/workspaces/Lesson/less_C#/OOP/Interface/obj/Debug/net8.0/Interface.dll
+/workspaces/Lesson/less_C#/OOP/Interface/obj/Debug/net8.0/refint/Interface.dll
+/workspaces/Lesson/less_C#/OOP/Interface/obj/Debug/net8.0/Interface.pdb
+/workspaces/Lesson/less_C#/OOP/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/workspaces/Lesson/less_C#/OOP/Interface/obj/Debug/net8.0/ref/Interface.dll
