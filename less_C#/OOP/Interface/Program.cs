@@ -2,6 +2,7 @@
 
 namespace Interface;
 
+#region Создание интерфейса
 interface IMoveble
 {
     int MaxSpeed { get; }
@@ -19,7 +20,9 @@ interface IFixedMovement
 
     void Unfix();
 }
+#endregion
 
+#region Наследование и реализация
 // Наследование интерфейсов
 interface IBaseInterface : IMoveble
 {
@@ -70,7 +73,33 @@ class CarFixed : IAdvancedInterface
         Console.WriteLine("Машина в хорошем состоянии\nПоехали!");
     }
 }
+#endregion
 
+#region Явная реализация интерфейсов
+interface IFirstInterface
+{
+    void Print();
+}
+
+interface ISecondInterface
+{
+    void Print();
+}
+
+// Явная реализация интерфейсов
+class MyOtherClass : IFirstInterface, ISecondInterface
+{
+    void IFirstInterface.Print()
+    {
+        Console.WriteLine("Явная реализация IFirstInterface");
+    }
+
+    void ISecondInterface.Print()
+    {
+        Console.WriteLine("Явная реализация ISecondInterface");
+    }
+}
+#endregion
 class Program
 {
     static void Main(string[] args)
@@ -94,5 +123,39 @@ class Program
             Console.WriteLine("Машина имеет высокую скорость");
             car.Stop();
         }
+
+        Console.WriteLine();
+
+        MyOtherClass myOtherClass = new MyOtherClass();
+        Method1(myOtherClass);
+        Method2(myOtherClass);
+
+        Console.WriteLine();
+
+        ((IFirstInterface)myOtherClass).Print();
+        ((ISecondInterface)myOtherClass).Print();
+
+        Console.WriteLine();
+
+        if (myOtherClass is IFirstInterface myfirstother)
+        {
+            myfirstother.Print();
+
+            if (myOtherClass is ISecondInterface mysecondother)
+            {
+                mysecondother.Print();
+            }
+        }
+
+    }
+
+    private static void Method1(IFirstInterface firstInterface)
+    {
+        firstInterface.Print();
+    }
+
+    private static void Method2(ISecondInterface secondInterface)
+    {
+        secondInterface.Print();
     }
 }
