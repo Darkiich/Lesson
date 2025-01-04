@@ -20,7 +20,17 @@ interface IFixedMovement
     void Unfix();
 }
 
-class Car : IMoveble
+// Наследование интерфейсов
+interface IBaseInterface : IMoveble
+{
+}
+
+interface IAdvancedInterface : IFixedMovement
+{
+}
+
+// Реализация интерфейсов
+class Car : IBaseInterface
 {
     public int MaxSpeed { get; }
 
@@ -40,7 +50,8 @@ class Car : IMoveble
     }
 }
 
-class CarFixed : IFixedMovement
+// Реализация интерфейсов
+class CarFixed : IAdvancedInterface
 {
     public bool IsFixed { get; }
 
