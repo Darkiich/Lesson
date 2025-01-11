@@ -1,0 +1,5 @@
+/workspaces/Lesson/less_C#/OOP/Class_and_Struct/obj/Debug/net8.0/Class_and_Struct.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lesson/less_C#/OOP/Class_and_Struct/obj/Debug/net8.0/Class_and_Struct.AssemblyInfoInputs.cache
+/workspaces/Lesson/less_C#/OOP/Class_and_Struct/obj/Debug/net8.0/Class_and_Struct.AssemblyInfo.cs
+/workspaces/Lesson/less_C#/OOP/Class_and_Struct/obj/Debug/net8.0/Class_and_Struct.csproj.CoreCompileInputs.cache
+/workspaces/Lesson/less_C#/OOP/Class_and_Struct/obj/Debug/net8.0/Class_and_Struct.sourcelink.json
