@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\less_C\u002B\u002B"
+    "\\less_C\u002B\u002B",
+    "\\less_C\u002B\u002B\\Tasks",
+    "\\less_C\u002B\u002B\\Tasks\\KeyWords",
+    "\\less_C\u002B\u002B\\Tasks\\KeyWords\\SizeOf"
   ],
-  "SelectedNode": "\\less_C\u002B\u002B\\Tasks",
+  "SelectedNode": "\\less_C\u002B\u002B\\Tasks\\KeyWords\\SizeOf\\Program",
   "PreviewInSolutionExplorer": false
 }
