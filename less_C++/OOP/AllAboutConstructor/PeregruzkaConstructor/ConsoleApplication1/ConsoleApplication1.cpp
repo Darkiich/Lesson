@@ -29,4 +29,6 @@ int main()
 
 	p1.display();
 	p2.display();
+
+	return 0;
 }
