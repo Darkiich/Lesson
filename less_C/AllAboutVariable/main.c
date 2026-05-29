@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+int main(void)
 {
 	// Модификатор доступа signed и unsigned. Диапазон для signed - от минимума до максимума, а unsigned - диапазон от 0 до максимума
 
