@@ -11,4 +11,6 @@ int main(void)
 	BYTE byte = 255;
 
 	printf("ULL ull = %llu \nBYTE byte = %d", ull, byte);
+
+	return 0;
 }

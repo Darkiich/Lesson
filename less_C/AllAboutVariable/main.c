@@ -55,4 +55,6 @@ void main()
 	printf("num: %d", num);
 
 	//num = 6; // Изменять нельзя, выдаст ошибку
+
+	return 0;
 }

@@ -12,4 +12,6 @@ int main(void)
 	size_t long_size_t = sizeof(long);
 	size_t short_size_t = sizeof(short);
 	printf("SIZE_T TYPE VARIABLE: \nsize_t char_size_t = %d\nsize_t float_size_t = %d\nsize_t long_size_t = %d\nsize_t short_size_t = %d\n\n", char_size_t, float_size_t, long_size_t, short_size_t);
+
+	return 0;
 }
