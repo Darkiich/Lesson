@@ -21,4 +21,6 @@ int main(void)
 	}
 
 	onDoSomeAction = isRange ? printf("Doing something") : printf("Not do something action"); // Тернарный оператор
+
+	return 0;
 }
