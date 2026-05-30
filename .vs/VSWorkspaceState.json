@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\less_C\u002B\u002B",
-    "\\less_C\u002B\u002B\\Tasks",
-    "\\less_C\u002B\u002B\\Tasks\\Function",
-    "\\less_C\u002B\u002B\\Tasks\\Function\\InlineFunction"
+    "\\less_C",
+    "\\less_C++\\Tasks",
+    "\\less_C++\\Tasks\\Links",
+    "\\less_C++\\Tasks\\Links\\AllAboutLinks",
+    "\\less_C++\\Tasks\\Links\\AllAboutLinks\\AllAboutLinks",
+    "\\less_C++\\Tasks\\Links\\AllAboutLinks\\AllAboutLinks\\Program",
+    "\\less_C++\\Tasks\\StringASArray\\SymbolOFPointers",
+    "\\less_C++\\Tasks\\StringASArray\\SymbolOFPointers\\ConsoleApplication1",
+    "\\less_C\\Pointers"
   ],
-  "SelectedNode": "\\less_C\u002B\u002B\\Tasks\\Function\\TemplateFunction",
+  "SelectedNode": "\\less_C\\Pointers\\pointers.c",
   "PreviewInSolutionExplorer": false
 }
