@@ -31,8 +31,9 @@ int main(void)
 	strcat(sh, sh2);
 	puts(sh);
 
-	strncat(sh2, sh, sizeof(sh) - strlen(sh) - 1);
-	//sh2[sizeof(sh2 - 1)] = '\0';
+	size_t n = sizeof(sh2) - strlen(sh2) - 1;
+	strncat(sh2, sh, n);
+	sh2[sizeof(sh2) - 1] = '\0';
 	puts(sh2);
 
 	return 0;
