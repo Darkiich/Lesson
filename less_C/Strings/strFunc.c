@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 
 int main(void)
 {
@@ -36,6 +37,26 @@ int main(void)
 	strncat(sh2, sh, n);
 	sh2[sizeof(sh2) - 1] = '\0';
 	puts(sh2);
+
+	// ===================== Построение строки =====================
+	char aga[100];
+	char dearS[] = "C programmer";
+	char workerS[] = "Jhon Marston";
+	char format[] = "Hello, dear %s. I'm a good worker %s";
+
+	sprintf(aga, format, dearS, workerS); // Собираем строку из абсолюно любых переданных данных(строки, числа и.т.д)
+	puts(aga);
+
+	sprintf(aga, format, "dearS", "workerS"); // Или так
+	puts(aga);
+
+	// ===================== Преобразование строковых чисел в тип чисел =====================
+	int i = atoi("12345");
+	double d = atof("3.145986");
+	long l = atol("-453834750");
+	long long ll = atoll("345899450049435");
+	sprintf(aga, "int: %d\ndouble: %f\nlong: %ld\nlong long: %lld", i, d, l ,ll);
+	puts(aga);
 
 	return 0;
 }
