@@ -2,15 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\less_C",
-    "\\less_C++\\Tasks",
-    "\\less_C++\\Tasks\\Links",
-    "\\less_C++\\Tasks\\Links\\AllAboutLinks",
-    "\\less_C++\\Tasks\\Links\\AllAboutLinks\\AllAboutLinks",
-    "\\less_C++\\Tasks\\Links\\AllAboutLinks\\AllAboutLinks\\Program",
-    "\\less_C++\\Tasks\\StringASArray\\SymbolOFPointers",
-    "\\less_C++\\Tasks\\StringASArray\\SymbolOFPointers\\ConsoleApplication1",
-    "\\less_C\\Pointers"
+    "\\less_C\\Arrays",
+    "\\less_C\\Strings"
   ],
-  "SelectedNode": "\\less_C\\Pointers\\pointers.c",
+  "SelectedNode": "\\less_C\\Strings\\a.exe",
   "PreviewInSolutionExplorer": false
 }
